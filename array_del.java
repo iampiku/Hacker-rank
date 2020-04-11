@@ -1,4 +1,3 @@
-
 // this program will remove the duplicate elements of the array;
 import java.util.Scanner;
 import java.util.Set;
